@@ -4,7 +4,7 @@ Front end developed through **reactjs** using **Functional Components** , **Mate
 1. It is a **Single Page Application**
 2. It is a fully functional site which has home , services , about, contact page.
 3. `Home` and `About` has a Component `<ReactComp/>`.
-4. `Services` uses the Component `<ReactCompCard>` whose data is provided through `Sdata.jsx` file.
+4. `Services` uses the Component `<ReactCompCard>` whose data is provided through `Sdata.jsx` file in **JSON** format.
 5. `Contact` page give alert on click on `Submit` button which shows your all details you have entered in the form.
 6.  Page does not reload on clicking on the different urls on the navbar. 
 # How To See In Your Local Machine
